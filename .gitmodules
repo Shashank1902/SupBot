@@ -1,0 +1,6 @@
+[submodule "SupBotBackend"]
+	path = SupBotBackend
+	url = https://github.com/Shashank1902/SupBotBackend.git
+[submodule "SupBotFrontend"]
+	path = SupBotFrontend
+	url = https://github.com/Shashank1902/SupBotFrontend.git
